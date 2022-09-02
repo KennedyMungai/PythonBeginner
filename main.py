@@ -1,5 +1,5 @@
 def get_choices():
-    player_choice="rock"
+    player_choice=input("Enter a choice: ")
     computer_choice="paper"
     
     choices = {
