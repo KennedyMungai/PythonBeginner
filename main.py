@@ -25,4 +25,5 @@ def get_choices():
         return lose_message
     
 
+
 get_choices()
