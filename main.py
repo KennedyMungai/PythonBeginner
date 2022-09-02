@@ -1,4 +1,4 @@
 from tokenize import String
 
 
-player_choice: String = "Rock"
+player_choice = "Rock"
