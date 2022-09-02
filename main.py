@@ -1,6 +1,4 @@
-number:str="20"
-actual_number:int=int(number)
-print(isinstance(actual_number, int))
+num1:complex=2+3j
+num2=complex(2,3)
 
-print("Shapoopie".upper())
-print(len("shapoopie"))
+print(f"{num1} and {num2}")
