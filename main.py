@@ -3,3 +3,4 @@ actual_number:int=int(number)
 print(isinstance(actual_number, int))
 
 print("Shapoopie".upper())
+print(len("shapoopie"))
