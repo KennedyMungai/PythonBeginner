@@ -13,8 +13,8 @@ def get_choices():
     return choices
 
 
-choice=get_choices()
-print(choice)
+# choice=get_choices()
+# print(choice)
 
 
 food=[
