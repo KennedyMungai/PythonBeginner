@@ -1,2 +1,3 @@
-name: str = "My wave"
-print(name)
+number:str="20"
+actual_number:int=int(number)
+print(isinstance(actual_number, int))
