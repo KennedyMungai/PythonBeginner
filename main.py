@@ -25,13 +25,4 @@ def get_choices():
         return lose_message
     
 
-
-
-food=[
-    "pizza",
-    "carrots",
-    "eggs"
-]
-
-dinner=random.choice(food)
-print(dinner)
+get_choices()
