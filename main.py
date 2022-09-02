@@ -15,3 +15,8 @@ def greeting():
 response=greeting()
 
 print(response)
+
+
+choice=get_choices()
+
+print(choice)
