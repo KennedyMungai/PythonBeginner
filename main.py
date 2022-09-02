@@ -6,4 +6,4 @@ dogs = [
 ]
 
 # print("Roger" in dogs)
-print(dogs[4])
+print(dogs[-2])
