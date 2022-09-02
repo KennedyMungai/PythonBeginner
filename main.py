@@ -6,4 +6,5 @@ class State(Enum):
     ACTIVE=1
     
 
-print(State.ACTIVE.value)
+# print(State.ACTIVE.value)
+print(State['ACTIVE'].value)
