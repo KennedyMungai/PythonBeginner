@@ -3,3 +3,10 @@ def get_choices():
     computer_choice="paper"
     
     return player_choice
+
+
+def greeting():
+    return "Hi"
+
+
+greeting()
