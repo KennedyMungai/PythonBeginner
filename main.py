@@ -26,4 +26,5 @@ def get_choices():
     
 
 
-get_choices()
+def check_win(player, computer):
+    pass
