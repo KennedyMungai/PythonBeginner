@@ -10,6 +10,12 @@ def get_choices():
         "computer": computer_choice
     }
     
+    options=[
+        "rock", 
+        "paper",
+        "scissors"
+    ]
+    
     return choices
 
 
