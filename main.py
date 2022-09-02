@@ -1,5 +1,7 @@
 from os import get_exec_path
 import random
+from secrets import choice
+from unittest import result
 
 
 def get_choices():
@@ -45,3 +47,4 @@ def check_win(player, computer):
     
 
 choices=get_choices()
+result=check_win(choices["player"], choices["computer"])
