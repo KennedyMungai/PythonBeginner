@@ -19,6 +19,7 @@ def get_choices():
     return "Write the implementation logic"
 
 
+
 def check_win(player, computer):
     print("You chose "+player+" , the computer chose "+computer)
     
