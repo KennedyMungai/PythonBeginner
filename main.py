@@ -13,14 +13,6 @@ def get_choices():
     return choices
 
 
-def greeting():
-    return "Hi"
-
-
-response=greeting()
-print(response)
-
-
 choice=get_choices()
 print(choice)
 
@@ -32,3 +24,4 @@ food=[
 ]
 
 dinner=random.choice(food)
+print(dinner)
