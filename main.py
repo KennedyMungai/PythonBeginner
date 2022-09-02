@@ -30,3 +30,5 @@ food=[
     "carrots",
     "eggs"
 ]
+
+dinner=random.choice(food)
