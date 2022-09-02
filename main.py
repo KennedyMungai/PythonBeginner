@@ -1,3 +1,6 @@
+import random
+
+
 def get_choices():
     player_choice=input("Enter a choice(rock, paper, scissors): ")
     computer_choice="paper"
