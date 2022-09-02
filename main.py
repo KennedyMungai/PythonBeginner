@@ -28,3 +28,4 @@ def check_win(player, computer):
     
     
 
+check_win("rock", "paper")
