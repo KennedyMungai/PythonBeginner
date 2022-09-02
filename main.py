@@ -8,4 +8,5 @@ class State(Enum):
 
 # print(State.ACTIVE.value)
 # print(State['ACTIVE'].value)
-print(list(State))
+# print(list(State))
+print(len(State))
