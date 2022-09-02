@@ -25,3 +25,6 @@ def check_win(player, computer):
     
     if(player == computer):
         return "Its a tie"
+    
+    
+
