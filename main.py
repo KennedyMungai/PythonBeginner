@@ -1,5 +1,6 @@
-num1:complex=2+3j
-num2=complex(2,3)
+from enum import Enum
 
-# print(f"{num1} and {num2}")
-print(num1.real, num1.imag)
+
+class State(Enum):
+    INACTIVE=0,
+    ACTIVE=1
