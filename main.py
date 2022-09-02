@@ -27,4 +27,4 @@ def get_choices():
 
 
 def check_win(player, computer):
-    pass
+    return [player, computer]
