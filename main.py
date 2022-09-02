@@ -25,3 +25,8 @@ choice=get_choices()
 print(choice)
 
 
+food=[
+    "pizza",
+    "carrots",
+    "eggs"
+]
