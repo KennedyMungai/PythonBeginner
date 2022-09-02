@@ -1,2 +1,3 @@
-player_choice = "Rock"
-computer_choice="Paper"
+def get_choices():
+    player_choice="rock"
+    computer_choice="paper"
