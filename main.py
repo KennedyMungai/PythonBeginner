@@ -1,3 +1,4 @@
+from os import get_exec_path
 import random
 
 
@@ -43,4 +44,4 @@ def check_win(player, computer):
     
     
 
-check_win("rock", "paper")
+choices=get_choices()
