@@ -7,6 +7,3 @@ def get_choices():
 
 def greeting():
     return "Hi"
-
-
-greeting()
