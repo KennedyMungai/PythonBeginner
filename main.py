@@ -5,4 +5,5 @@ dogs = [
     True
 ]
 
-print("Roger" in dogs)
+# print("Roger" in dogs)
+print(dogs[0])
